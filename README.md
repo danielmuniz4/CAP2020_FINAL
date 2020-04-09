@@ -7,8 +7,9 @@ You can use the [editor on GitHub](https://github.com/capstonefiu2020/CAP2020_FI
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Goal:
+## Goals:
 - Build a recession resistant portfolio of S&P 500 stocks that beats the overall market during bear markets while maximizing the Sharpe Ratio
+- Establish a proof of concept that will serve as a template for the continuation of building recession resistant portfolios 
 
 <img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_Ratio_Formula.png" width="400" height="200" />
 
