@@ -11,8 +11,8 @@ This project seeks to explore portfolio building techniques that will do well in
 
 
 
-<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_ratio.PNG" width="400" height="200" />
-
+<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_ratio.PNG" width="600" height="200" />
+<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_ratio2.PNG" width="350" height="100" />
 
 
 
