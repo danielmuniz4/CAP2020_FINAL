@@ -18,14 +18,18 @@ This project seeks to explore portfolio building techniques that will do well in
 
 
 
-## Conclusions:
-### Experiment 1 Results:
+## Results:
+### Experiment 1:
 * There was some postive performace 
 
-### Experiment 2 Results:
+### Experiment 2:
 * The more the Alternative stocks beat the S&P 500 in 8/2008-12/2008, the better the Alternative portfolio performed in Q1 of 2020
 * However there was no statistically significant separability between Alternaive and Control portfolios
 
+## Conclusions:
+* Using the return threshold as a heuristic is a good start (Experiment 2) to estimate stocks eligible for alternative portfolios 
+* Other metrics related to moving averages and D/E ratio need to added to alternative portfolio criteria
+* The more stocks to select from, the more likely a statistically significant alternative portfolio can be devised (with added metrics) 
 
 
 
