@@ -27,11 +27,10 @@ This project seeks to explore portfolio building techniques that will do well in
 * However there was no statistically significant separability between Alternaive and Control portfolios
 
 ## Conclusions:
+* ROE and PEG portfolios performed very well
 * Using the return threshold as a heuristic is a good start (Experiment 2) to estimate stocks eligible for alternative portfolios 
 * Other metrics related to moving averages and D/E ratio need to added to alternative portfolio criteria
-* The more stocks to select from, the more likely a statistically significant alternative portfolio can be devised (with added metrics) 
-
-
+* The more stocks to select from, the more Need more random the potential designs
 
 
 
