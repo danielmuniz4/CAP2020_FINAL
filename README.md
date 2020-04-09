@@ -16,10 +16,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Conclusions:
 Experiment 1:
-* There was some postive performace 
-Experiment 2
-* The more the Alternative stocks beat the S&P 500 in 8/2008-12/2008, the better the Alternative portfolio performed in Q1 of 2020
-* However there was no statistically significant separability between Alternaive and Control portfolios
+- There was some postive performace 
+Experiment 2:
+- The more the Alternative stocks beat the S&P 500 in 8/2008-12/2008, the better the Alternative portfolio performed in Q1 of 2020
+- However there was no statistically significant separability between Alternaive and Control portfolios
 
 
 
