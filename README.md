@@ -7,7 +7,19 @@ You can use the [editor on GitHub](https://github.com/capstonefiu2020/CAP2020_FI
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-    
+## Goal:
+- Build a recession resistant portfolio of S&P 500 stocks that beats the overall market during bear markets while maximizing the Sharpe Ratio
+
+<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_Ratio_Formula.png" width="400" height="200" />
+
+
+
+## Conclusions:
+- Experiment 1: 
+    - 
+- Experiment 2:
+    - The more the Alternative stocks beat the S&P 500 in 8/2008-12/2008, the better the Alternative portfolio performed in Q1 of 2020
+    - However there was no statistically significant separability between Alternaive and Control portfolios
 
 
 
