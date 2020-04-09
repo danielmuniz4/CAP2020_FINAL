@@ -5,7 +5,7 @@ This project seeks to explore portfolio building techniques that will do well in
 
 ## Goals:
 - Build a recession resistant portfolio of S&P 500 stocks that beats the overall market during bear markets while maximizing the Sharpe Ratio
-- Compare Naive Portfolios vs. Sharpe Ratio Optimized Portfolios
+- Compare naively constructed portfolios and Sharpe Ratio optimized portfolios against control portfolios
 - Establish a proof of concept that will serve as a template for the continuation of building recession resistant portfolios 
 
 <img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_Ratio_Formula.png" width="470" height="200" />
