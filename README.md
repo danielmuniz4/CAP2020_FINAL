@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Abstract
+
+This project seeks to explore portfolio building techniques that will do well in bear markets. We look at quarterly and daily data that point to a stock being resistant to recessions, and sample portfolios to compare between resistant and non-resistant stocks. We find that some treatments give promising portfolios during both bull and bear markets. These naive results warrant more investigation into the relationship between these metrics and portfolio performance.
+
 
 You can use the [editor on GitHub](https://github.com/capstonefiu2020/CAP2020_FINAL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+    
+
+
 
 ### Markdown
 
