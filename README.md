@@ -11,6 +11,13 @@ This project seeks to explore portfolio building techniques that will do well in
 
 
 
+<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_ratio.PNG" width="400" height="200" />
+
+
+
+
+
+
 ## Conclusions:
 ### Experiment 1 Results:
 * There was some postive performace 
