@@ -3,7 +3,6 @@
 This project seeks to explore portfolio building techniques that will do well in bear markets. We look at quarterly and daily data that point to a stock being resistant to recessions, and sample portfolios to compare between resistant and non-resistant stocks. We find that some treatments give promising portfolios during both bull and bear markets. These naive results warrant more investigation into the relationship between these metrics and portfolio performance.
 
 
-
 ## Goals:
 - Build a recession resistant portfolio of S&P 500 stocks that beats the overall market during bear markets while maximizing the Sharpe Ratio
 - Compare naively constructed portfolios and Sharpe Ratio optimized portfolios against control portfolios
@@ -21,7 +20,8 @@ This project seeks to explore portfolio building techniques that will do well in
 
 ## Results:
 ### Experiment 1:
-* There was some postive performace 
+* The alternative portfolios produced significantly better results for both the ROE and PEG treatments. In particular, the ROE 
+* treatment outperformed controls on both 2019 and recession data.
 
 ### Experiment 2:
 * The more the Alternative stocks beat the S&P 500 in 8/2008-12/2008, the better the Alternative portfolio performed in Q1 of 2020
