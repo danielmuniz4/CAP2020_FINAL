@@ -1,7 +1,7 @@
 ## Abstract
 
 This project seeks to explore portfolio building techniques that will do well in bear markets. We look at quarterly and daily data that point to a stock being resistant to recessions, and sample portfolios to compare between resistant and non-resistant stocks. We find that some treatments give promising portfolios during both bull and bear markets. These naive results warrant more investigation into the relationship between these metrics and portfolio performance.
-dsfs
+
 
 
 ## Goals:
